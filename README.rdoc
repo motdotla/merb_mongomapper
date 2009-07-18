@@ -1,0 +1,7 @@
+= merb_mongomapper
+
+Description goes here.
+
+== Copyright
+
+Copyright (c) 2009 scottmotte. See LICENSE for details.
